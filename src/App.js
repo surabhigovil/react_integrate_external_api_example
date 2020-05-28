@@ -1,11 +1,12 @@
 import React, {useEffect, useState} from "react";
 import Recipe from "./Recipe";
 import "./App.css";
+import "./auth.txt";
 
 const App = () => {
 
-  const APP_ID="760926f5";
-  const APP_KEY="411c0879f1f32cbb01d6268886a1f66a";
+  const APP_ID=;
+  const APP_KEY=;
 
   const[recipes, setRecipes] = useState([]);
   const [search, setSearch] = useState("");
