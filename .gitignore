@@ -9,7 +9,7 @@
 /coverage
 
 #api authentication
-/src/auth.txt
+/src/auth.json
 
 # production
 /build
